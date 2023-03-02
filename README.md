@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jatin Mehta</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Codeing-gif" align="right" width="280">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinmeh&label=Profile%20views&color=0e75b6&style=flat" alt="jatinmeh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatinmeh" alt="jatinmeh" /></a> </p>
+
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Codeing-gif" align="right" width="280">
 
 - 🌱 I’m currently learning **Machine Learning**
 

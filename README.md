@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/jatinmeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatinmeh" height="30" width="40" /></a>
 <a href="https://instagram.com/jatin113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatin113" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/tooomuch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tooomuch" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="v" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/ToooMuch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="v" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
